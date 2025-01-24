@@ -1,9 +1,9 @@
-name: Introduction
+name: abdo yousef
 
 description: Your intro to coding starts here!
 
 aspects:
-  - introduction
+  - introduction https://www.facebook.com/profile.php?id=61554097832160&mibextid=wwXIfr&mibextid=wwXIfr
 
 insights:
   - intro-to-coding
